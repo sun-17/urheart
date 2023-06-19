@@ -1,0 +1,28 @@
+body{
+    background-color:rgba(245, 245, 245, 0.878);
+}
+
+.container{
+
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    gap:30px;
+}
+
+img{
+    height:300px;
+}
+h1{
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    height:50px;
+    border-radius: 20px;
+     background-color:rgb(255, 192, 200);
+}
+p{
+    text-align: center;
+}
